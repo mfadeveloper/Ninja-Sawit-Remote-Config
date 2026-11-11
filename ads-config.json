@@ -1,0 +1,26 @@
+{
+  "config_version": 1,
+  "config_enabled": true,
+  "ads": {
+    "banner": {
+      "enabled": true,
+      "home": true,
+      "shop": true
+    },
+    "interstitial": {
+      "enabled": true,
+      "every_n_completed_levels": 3,
+      "minimum_interval_seconds": 180
+    },
+    "rewarded": {
+      "enabled": true,
+      "reward_multiplier": 2,
+      "reward_scope": "base_level_completion_only"
+    }
+  },
+  "production_ad_unit_ids": {
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  }
+}
