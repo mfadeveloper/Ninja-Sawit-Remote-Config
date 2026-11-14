@@ -4,7 +4,7 @@
   "ads": {
     "banner": {
       "enabled": true,
-      "home": false,
+      "home": true,
       "shop": true
     },
     "interstitial": {
