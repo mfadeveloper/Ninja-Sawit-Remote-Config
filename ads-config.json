@@ -1,6 +1,6 @@
 {
   "config_version": 1,
-  "config_enabled": false,
+  "config_enabled": true,
   "ads": {
     "banner": {
       "enabled": true,
